@@ -1,5 +1,10 @@
 # KhataTrack
 
+![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0.81-61DAFB?logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
+
 Offline-first expense tracker built for Indian users. Track income and expenses in Hindi or English, with ₹ formatting, UPI categories, and optional bank SMS auto-import.
 
 ## Features
