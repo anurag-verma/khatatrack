@@ -59,3 +59,5 @@ See [PRIVACY.md](PRIVACY.md). KhataTrack does not collect, transmit, or store yo
 ## License
 
 Private project — free for personal use.
+
+© 2026 Anurag Verma. All rights reserved.
